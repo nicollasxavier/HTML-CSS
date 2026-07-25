@@ -1,6 +1,6 @@
 # HTML-CSS
 Curso de HTML5 e CSS3
 
-Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
+Nicollas Xavier
 
-<a href="https://nicollasxavier.github.io/HTML-CSS/exercicios/modulo1/ex001/index.html"> Executar o exercício 001 </a>
+<a href="https://nicollasxavier.github.io/HTML-CSS/desafios/modulo2/d010/android.html"> Site Android </a>
